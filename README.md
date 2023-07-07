@@ -1,6 +1,8 @@
-# FCND-Term1-Starter-Kit
+# FCND Environment for Backyard Flyer and Motion Planning
 
-Starter kit for FCND Term 1. Python 3 is used for the entirety of term 1.
+Python 3 is used for the first 2 projects and the exercise notebooks throughout the course. The Controls and Estimation projects are in C++ and have their own environment.
+
+The [FCND Simulator](https://github.com/udacity/FCND-Simulator) ([binaries](https://github.com/udacity/FCND-Simulator-Releases)) is used for [Backyard Flyer](https://github.com/ivogeorg/FCND-Backyard-Flyer), [Motion Planning](https://github.com/ivogeorg/FCND-Motion-Planning), and the optional [Python Controls](https://github.com/ivogeorg/FCND-Controls-Python) project. 
 
 Packages used:
 
